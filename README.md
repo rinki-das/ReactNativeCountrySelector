@@ -4,5 +4,5 @@ npx expo start --dev-client
 
 Scan the QR With Expo go mobile app and paste the link:
 exp+reactnativecountryselector://expo-development-client/?url=http%3A%2F%2F192.168.89.224%3A8081
-![image](https://github.com/rinki-das/ReactNativeCountrySelector/assets/101658911/3e7d0051-e72e-464a-b89e-3de362174c69)
+
 
